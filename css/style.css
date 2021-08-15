@@ -5,6 +5,41 @@
 }
 
 .container-nav { 
-  background-color: aquamarine;
+  position: fixed;
+  width: 100%;
+  background-color: #1E2326;
 }
 
+.itens-navbar { 
+  display: flex;
+  justify-content: space-between;
+}
+
+.itens-navbar button, a { 
+  margin: 10px 15px;
+}
+
+.itens-navbar a { 
+  font-style: normal;
+  font-weight: normal;
+  font-family: 'Righteous', cursive;
+  font-size: 18px;
+  color: #D30808;
+  text-decoration: none;
+}
+
+.button-menu { 
+  color: rgb(252, 252, 252);
+  background-color: #D30808;
+  height: 1.8em;
+  width: 5%;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 3px;
+  border: rgba(211, 30, 30, 0.75);
+}
+
+.main p { 
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 50px;
+}
