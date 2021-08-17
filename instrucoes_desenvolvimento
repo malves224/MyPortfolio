@@ -1,0 +1,47 @@
+# 0. zera padding e margin e defina bg do body no css. 
+
+# 1.crie um navbar:
+bg color: #1E2326, cores dos itens: D30808.
+atenção com font family font size.
+use os eventos 'swiped-up', 'swiped-down' para que a barra desaparece e aparece de acordo com os eventos. 
+button que irá ativar o side bar (icon hamburger) 
+ao ativar o sidebar deverá ter overlay em toda a pagina (exceto o sidebar) 
+o sidebar devara aparecer ao ser acionado evento 'swiped-right' e fechara com 'swiped-left'.
+dentro do side bar deverá ter links, com os seus respectivos icons (use fontAwesome).
+
+# 2. Crie um hero:
+use uma imagem de bg pegue a foto da paste images:
+essa imagem devará ter overlay preto com linear-gradient (mais informação no figma).
+cria um card tamanho (w546, h536) atenção para responsividade ao diminuir a pagina:
+bg color #252A2E, borderadius 23px.
+devara ter um subtitle com nome e um <P> em baixo do nome.
+dentro desse card crie uma container row para armazenar icons de rede social.
+  
+# 3. section para "sobre MIM":
+sub title escito "sobre mim" (atenção com font-f -s) com text-decoration conforma esta no figma.
+paragrafo com descrição
+parte de intereses sera uma ul cada li sera um card.
+cada card tera um icon que representa aquele interese e um paragrafo logo abaixo.
+atenção para responsividade desses cards. 
+  
+# 4. section para Habilidades:
+  uma div com bg color #252A2E.
+  sub title escrito 'Habilidades' .
+  sub title para 'habilidades tecnicas ou hards skills'.
+  paragrafo com descrição.
+  sub title para 'softs skills.
+  paragrafo com descrição.
+  
+  
+ # 5. section para projetos.
+  um div com bg color #252A2E.
+  subtitle projetos com texdecoration diferenciado.
+  um ul cada li sera um card com foto e link para acessar o projeto.
+  
+  #6 footer com bottun redonda para subir a pagina.
+  texto com chamada para redes socias e icons das redes socias
+  copyright.
+  
+  
+  
+
