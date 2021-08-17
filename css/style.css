@@ -42,6 +42,7 @@ a {
 .button-menu:hover { 
   cursor: pointer;
 }
+
 .main p {
   margin-left: 20%;
   margin-right: 20%;
@@ -70,7 +71,7 @@ a {
   z-index: 2;
   width: 33%;
   min-width: 200px;
-  transition: all ease 0.25s;
+  transition: all ease 0.30s;
 }
 
 .itens-menu {
