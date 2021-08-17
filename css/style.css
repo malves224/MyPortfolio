@@ -39,6 +39,9 @@ a {
   border: rgba(211, 30, 30, 0.75);
 }
 
+.button-menu:hover { 
+  cursor: pointer;
+}
 .main p {
   margin-left: 20%;
   margin-right: 20%;
